@@ -1,5 +1,6 @@
 (()=>{ let css=`
 .app-wrapper-web .app,
+.app-wrapper-web ._36Q2N,
 .app-wrapper-web .h70RQ {
     width: 100% !important;
     height: 100% !important;
